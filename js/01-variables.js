@@ -5,7 +5,6 @@ console.log(pasisveikinimas);
 const pirmasSkaicius = 4;
 const antrasSkaicius = 44;
 const suma = pirmasSkaicius + antrasSkaicius;
-
 console.log(pirmasSkaicius);
 console.log(antrasSkaicius);
 console.log(suma);
