@@ -40,3 +40,15 @@ const pazymiuVidurkis = pazymiuSuma / pazymiuKiekis;
 console.log('Pazymiu suma:', pazymiuSuma);
 console.log('Pazymiu kiekis:', pazymiuKiekis);
 console.log('Pazymiu vidurkis:', pazymiuVidurkis);
+
+const abcIlgis = abc.length;
+console.log(abcIlgis);
+
+const paskutinesRaidesPazicija = abcIlgis -1;
+console.log(paskutinesRaidesPazicija);
+
+const paskutineRaide = abc[5];
+console.log(paskutineRaide);
+
+const abcAtsakymas = 'Is mums zinomos ' + abcIlgis + ' raidziu abeceles paskutine yra "' + paskutineRaide + '".';
+console.log(abcAtsakymas);
