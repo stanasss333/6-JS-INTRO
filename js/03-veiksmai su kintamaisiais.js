@@ -11,9 +11,9 @@ console.log('Automobiliu suma:', automobiliuSuma);
 const vazonuSuma = vazonai[1] - vazonai[2] + vazonai[3] - vazonai[4] + vazonai[5];
 console.log('Vazonu suma:', vazonuSuma);
 
-const dgjSuma = dgj[4] + ',' + dgj[3] + ',' + dgj[2] + ',' + dgj[1] + ',' + dgj[0];
+const dgjSuma = dgj[4] + ', ' + dgj[3] + ', ' + dgj[2] + ', ' + dgj[1] + ', ' + dgj[0];
 console.log('Dgj suma:', dgjSuma);
-const zodynuSuma = zodynai[4] + ',' + zodynai[3] + ',' + zodynai[2] + ',' + zodynai[1] + ',' + zodynai[0];
+const zodynuSuma = zodynai[4] + ', ' + zodynai[3] + ', ' + zodynai[2] + ', ' + zodynai[1] + ', ' + zodynai[0];
 console.log('Zodynu suma:', zodynuSuma);
-const geliuSuma = geles[4] + ',' + geles[3] + ',' + geles[2] + ',' + geles[1] + ',' + geles[0];
+const geliuSuma = geles[4] + ', ' + geles[3] + ', ' + geles[2] + ', ' + geles[1] + ', ' + geles[0];
 console.log('Geliu suma:', geliuSuma);
