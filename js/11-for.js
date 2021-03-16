@@ -28,7 +28,7 @@ let sum = 0;
 
 for (let i = 0; i < marks.length; i++) {
     const pazymys = marks[i];
-    console.log(pazymys);
+    console.log(pazymys);;
 } 
 
 const average = sum / marks.length;
